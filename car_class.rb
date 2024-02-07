@@ -20,7 +20,6 @@ class Car
     def print_color
         "The #{@make} #{@model} is #{@color}."
     end
-
 end
 
 # Car instance
